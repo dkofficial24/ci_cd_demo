@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "215255445462",
+    "project_id": "codexia-demo",
+    "storage_bucket": "codexia-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215255445462:android:4f030775931de0c78ebe77",
+        "android_client_info": {
+          "package_name": "com.codeixa.codexia_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJeqa-LaipsSmqYS4XBFAWflE13H_2sTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
